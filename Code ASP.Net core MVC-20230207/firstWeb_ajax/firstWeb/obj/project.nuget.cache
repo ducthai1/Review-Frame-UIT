@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ecxKH42ff5TAOIfbvZVMxU6FyV2FXVrQaQaLBFRilaMvtdEXhNxApwl4l83lFqb42JE6UterBNIFGnu6HTxcDQ==",
+  "success": true,
+  "projectFilePath": "/Users/XuanHung/Teach/FrameWork/code/netcore/firstWeb_ajax/firstWeb/firstWeb.csproj",
+  "expectedPackageFiles": [
+    "/Users/minhtan/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/minhtan/.nuget/packages/mysql.data/6.10.9/mysql.data.6.10.9.nupkg.sha512",
+    "/Users/minhtan/.nuget/packages/system.configuration.configurationmanager/4.4.1/system.configuration.configurationmanager.4.4.1.nupkg.sha512",
+    "/Users/minhtan/.nuget/packages/system.security.accesscontrol/4.4.0/system.security.accesscontrol.4.4.0.nupkg.sha512",
+    "/Users/minhtan/.nuget/packages/system.security.cryptography.protecteddata/4.4.0/system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
+    "/Users/minhtan/.nuget/packages/system.security.permissions/4.4.1/system.security.permissions.4.4.1.nupkg.sha512",
+    "/Users/minhtan/.nuget/packages/system.security.principal.windows/4.4.0/system.security.principal.windows.4.4.0.nupkg.sha512",
+    "/Users/minhtan/.nuget/packages/system.text.encoding.codepages/4.4.0/system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

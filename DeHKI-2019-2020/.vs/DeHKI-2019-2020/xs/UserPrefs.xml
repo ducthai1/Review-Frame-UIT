@@ -1,0 +1,47 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{0E4CF40D-F29B-4E4E-B5DB-422969070440}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HKI-2020-2021 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeHKI-2019-2020/Models/StoreContext.cs">
+    <Files>
+      <File FileName="DeHkI-2019-2020/Models/StoreContext.cs" Line="153" Column="10" />
+      <File FileName="DeHkI-2019-2020/Views/CongNhan/Cau3.cshtml" />
+      <File FileName="DeHkI-2019-2020/Views/CN_TC/Cau2.cshtml" />
+      <File FileName="DeHkI-2019-2020/Controllers/CongNhanController.cs" />
+      <File FileName="DeHkI-2019-2020/Views/DiemCachLy/Cau1.cshtml" />
+      <File FileName="DeHkI-2019-2020/Controllers/DiemCachLyController.cs" />
+      <File FileName="DeHkI-2019-2020/Views/CN_TC/LietKeTC.cshtml" />
+      <File FileName="DeHkI-2019-2020/Controllers/CN_TCController.cs" />
+      <File FileName="DeHkI-2019-2020/Models/CongNhan.cs" />
+      <File FileName="DeHkI-2019-2020/Views/CongNhan/LietKeCN.cshtml" />
+      <File FileName="DeHkI-2019-2020/Views/CongNhan/DeleteCN.cshtml" />
+      <File FileName="DeHkI-2019-2020/Views/CongNhan/ViewCN.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DeHkI-2019-2020" expanded="True">
+            <Node name="2019-2020cuoiky" expanded="True" />
+            <Node name="DeHkI-2019-2020" expanded="True">
+              <Node name="Dependencies" expanded="True" selected="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="CN_TC" expanded="True" />
+                <Node name="CongNhan" expanded="True" />
+                <Node name="DiemCachLy" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DeHkI-2019-2020 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

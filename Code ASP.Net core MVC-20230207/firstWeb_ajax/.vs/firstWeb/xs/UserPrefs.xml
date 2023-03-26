@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{A30E5ADF-8E1E-42C4-8644-A44FC1CA6450}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="firstWeb/Views/SinhVien/LietKeSinhVienCuaBoMon_Ajax.cshtml">
+    <Files>
+      <File FileName="firstWeb/Views/BoMon/LietKeBoMon.cshtml" Line="10" Column="76" />
+      <File FileName="firstWeb/Views/Shared/_Layout.cshtml" Line="54" Column="117" />
+      <File FileName="firstWeb/Models/StoreContext.cs" />
+      <File FileName="firstWeb/Models/Khoa.cs" Line="1" Column="1" />
+      <File FileName="firstWeb/Views/SinhVien/LietKeSinhVienCuaBoMon_Ajax.cshtml" Line="20" Column="1" />
+      <File FileName="firstWeb/Controllers/BoMonController.cs" Line="35" Column="41" />
+      <File FileName="firstWeb/Controllers/SinhVienController.cs" Line="57" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="firstWeb" expanded="True">
+            <Node name="firstWeb" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="BoMon" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="SinhVien" expanded="True">
+                  <Node name="LietKeSinhVienCuaBoMon_Ajax.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.firstWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
